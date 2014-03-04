@@ -566,3 +566,10 @@ DIV.block3 {
 	margin-left: 52px;;
 	margin-top:525px;*margin-top:388px
 }
+.li1 {
+  float: right;
+  height: auto;
+  margin-top: 30px;
+  padding-left: 7px;
+  padding-right: 7px;
+}
