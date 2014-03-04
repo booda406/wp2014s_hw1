@@ -26,7 +26,7 @@ DIV.block {
 	FLOAT: left; WIDTH: 212px;
 }
 DIV.block1 {
-	WIDTH: 701px; FLOAT: right;
+	WIDTH: 701px; FLOAT: left;
 }
 
 DIV.newsall {
@@ -569,7 +569,7 @@ DIV.block3 {
 .li1 {
   float: right;
   height: auto;
-  margin-top: 30px;
+  margin-top: -5px;
   padding-left: 7px;
   padding-right: 7px;
 }
