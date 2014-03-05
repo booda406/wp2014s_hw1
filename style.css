@@ -573,3 +573,9 @@ DIV.block3 {
   padding-left: 7px;
   padding-right: 7px;
 }
+.li2 {
+  list-style-type: none;
+  float: left;
+  height: auto;
+  width: auto;
+}
